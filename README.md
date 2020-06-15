@@ -2,7 +2,7 @@
 #### kafka 测试工程
 
 ### 使用说明
-##### 1.修改kafka地址配置
+##### 1.配置kafka地址
 application.yml文件下
 ```
     bootstrap-servers: 192.168.2.104:9092 #kafka地址
