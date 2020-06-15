@@ -5,7 +5,7 @@
 ##### 1.修改kafka地址配置
 application.yml文件下
 ```
-    bootstrap-servers: 192.168.2.104:9092
+    bootstrap-servers: 192.168.2.104:9092 #kafka地址
 ```
 
 ##### 2.启动工程
